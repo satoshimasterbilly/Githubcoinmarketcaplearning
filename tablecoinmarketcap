@@ -1,0 +1,30 @@
+<div class="row">
+  <div class="col-12"><div class="text-center"><p style="font-size:30px">Top 100 Cryptocurrencies by Market Capitalization</p>
+ </div>
+  <div class="container-fluid">
+    <button type="button" class="btn btn-outline-dark">Cryptocurrencies</button>
+    <button type="button" class="btn btn-link">Exchanges</button>
+    <button type="button" class="btn btn-link">Watchlist</button>
+  </div>
+
+  <div class="container"
+    <div class="table-responsive">
+     <table class="table">
+      <thead>
+        <tr>
+          <th>Symbol</th>
+          <th>Logo</th>
+          <th>Name</th>
+          <th>Market Cap</th>
+          <th>Price($)</th>
+          <th>Volume (24h)</th>
+          <th>Circulating supply</th>
+          <th>Change (24h)</th>
+          <th>Last Updated</th>
+        </tr>
+      </thead>
+    <tbody id="data">
+   </tbody>
+  </table>
+ </div>
+</div>
